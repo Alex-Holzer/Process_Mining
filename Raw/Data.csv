@@ -1,0 +1,46 @@
+﻿CASE_KEY;VorgangsID;Benutzername;Agenturnummer;Vorschlagsnummer;Datum;Funktion;Tarifname;Sparte;Zahlweise;Benutzergruppe;AlS CaselD;Vertriebsgesellschaft;Antragsnummer;KZ Risikopruefungspflichtig;KZ AIS Vollstaendig;Antragstormat
+A1;1;1234232;213;232;23.01.22 08:00;Antrag Start;;;Monathlich;Test 1;B00185506;4;51561651;Nein;Nein;nul
+A1;1;132;123;;23.01.22 08:10;Fristablauf ext. Signatul;BU;;;Test 2;B00186243;47;1561616516;Ja;Ja;E-Signiert
+A1;1;12;214;;23.01.22 08:15;Vorschlag;;;;Test 3;;58;;Ja;Ja;
+A1;1;12;214;;23.01.22 08:22;Antrag (Papier);;;;Test 4;;;;Ja;Ja;
+A1;1;12;214;;23.01.22 08:25;Vorschlag;;;;Test 5;;;;Ja;Ja;Remote
+A1;1;12;214;;23.01.22 08:29;Ext. Signatur Übermittelt;;BO;;Test 6;;;;Ja;Ja;
+A1;1;12;214;;23.01.22 08:30;Ext. Signatur erfolgt;BU;;;Test 7;;;;Ja;Ja;
+A1;1;12;214;12;23.01.22 08:00;Sync;;;;Test 8;;13;;Ja;Ja;
+A1;1;12;214;;23.01.22 08:50;Sync;;HI;;Test 9;;;;Ja;Ja;
+A1;1;12;214;;23.01.22 09:00;Antrag Vollstaendig;;;;Test 10;;1;;Ja;Ja;
+A1;1;12;214;12;23.01.22 09:10;Laden;;;;Test 11;;;;Ja;Ja;
+A1;1;12;214;;23.01.22 09:15;Erstellt;BU;;;;;;;Ja;Ja;
+A1;1;12;;;23.01.22 09:20;Berechnung;;;;Test 13;;;;Ja;Ja;
+A1;1;12;214;3;23.01.22 09:25;Antrag (VE);;;;Test 14;;A;;Ja;Ja;
+A1;1;12;214;;23.01.22 09:35;Warten aut ext. Signatur;;;;Test 15;;v;;;;
+A1;1;12;214;;23.01.22 09:40;Erinnerung an ext. Signatur;;;;Test 16;;;;;;
+A1;1;12;214;;23.01.22 09:45;Update;;;;Test 17;;;;;;
+A1;1;12;214;;23.01.22 10:00;Geloescht;;;;Test 18;;;;;;
+A2;2;10;214;;23.01.22 10:00;Antrag Start;;;;;;;;;;
+A2;2;10;214;;23.01.22 10:20;Sync;;vo;;Test 20;;;;;;
+A2;2;10;214;;23.01.22 10:50;Laden;;;;;;;;;;
+A2;2;10;214;2;23.01.22 11:00;Antrag (VE);;;;;;;;;;
+A2;2;10;214;3;23.01.22 11:01;Geloescht;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;BU26;;;;;;;;;;;;;;
+;;BU29;;;;;;;;;;;;;;
+;;FSB10;;;;;;;;;;;;;;
+;;FÖR;;;;;;;;;;;;;;
+;;DIR;;;;;;;;;;;;;;
+;;REN;;;;;;;;;;;;;;
+;;FON;;;;;;;;;;;;;;
+;;BUV;;;;;;;;;;;;;;
+;;U-Kasse;;;;;;;;;;;;;;
+;;BAR;;;;;;;;;;;;;;
+;;bAV;;;;;;;;;;;;;;
+;;Jaehrlich;;;;;;;;;;;;;;
+;;Monatlich;;;;;;;;;;;;;;
+;;Einmalbeitrag;;;;;;;;;;;;;;
